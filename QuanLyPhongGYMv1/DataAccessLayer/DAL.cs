@@ -1,44 +1,102 @@
-﻿using System;
+﻿using DocumentFormat.OpenXml.Drawing.Charts;
+using DocumentFormat.OpenXml.Office2010.Excel;
+using DocumentFormat.OpenXml.Spreadsheet;
+using DocumentFormat.OpenXml.VariantTypes;
+using DocumentFormat.OpenXml.Wordprocessing;
+using System;
+using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Linq;
 
 namespace DataAccessLayer
 {
     public class DAL
     {
-        private string ConnStr = "Data Source=YUUUUUBIN;Initial Catalog=QuanLyPhongGymV1;Integrated Security=True";
-        private SqlConnection conn;
-        private SqlCommand comm;
+        protected readonly string ConnStr = "Data Source=YUUUUUBIN;Initial Catalog=QuanLyPhongGymV1;Integrated Security=True";
+        protected readonly SqlConnection conn;
+        protected readonly SqlCommand comm;
+        protected readonly SqlDataAdapter da;
+        
 
         public DAL()
         {
             conn = new SqlConnection(ConnStr);
-            comm = conn.CreateCommand();
+            comm = new SqlCommand();
         }
 
-        public DataTable GetMembershipPackages()
+        // Các phương thức thực thi SQL trong lớp DAL
+        //ExecuteQueryDataSet cho phép bạn lấy dữ liệu dạng bảng (SELECT).
+        //MyExecuteNonQuery dùng cho các thao tác thay đổi(INSERT/UPDATE/DELETE).
+        //ExecuteScalar dùng khi bạn cần một giá trị đơn(đếm, tổng, ID).
+
+        // Khai bao ham thuc thi tang ket noi
+        public DataSet ExecuteQueryDataSet(string strSQL, CommandType ct, params SqlParameter[] p)
         {
-            string query = "SELECT MembershipID, MembershipName FROM MembershipPackages";
-            SqlDataAdapter da = new SqlDataAdapter(query, conn);
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            return dt;
+            DataSet ds = new DataSet();
+
+            using (SqlConnection conn = new SqlConnection(ConnStr))  // Khởi tạo kết nối
+            using (SqlCommand cmd = new SqlCommand(strSQL, conn))   // Tạo SqlCommand với kết nối conn
+            {
+                cmd.CommandType = ct;
+
+                // Gán tham số nếu có
+                if (p != null && p.Length > 0)
+                    cmd.Parameters.AddRange(p);
+
+                using (SqlDataAdapter da = new SqlDataAdapter(cmd))  // Dùng SqlDataAdapter để điền dữ liệu
+                {
+                    conn.Open();  // Mở kết nối
+                    da.Fill(ds);  // Điền dữ liệu vào DataSet
+                }
+            }
+
+            return ds;
         }
 
-        public void AddCustomer(string fullName, string phoneNumber, DateTime startDate, int? membershipID)
+        // Action Query = Insert | Delete | Update | Stored Procedure
+        public bool MyExecuteNonQuery(string strSQL, CommandType ct, ref string error, params SqlParameter[] param)
         {
-            string query = "INSERT INTO Customers (FullName, PhoneNumber, StartDate, MembershipID) VALUES (@FullName, @PhoneNumber, @StartDate, @MembershipID)";
-            SqlCommand cmd = new SqlCommand(query, conn);
-            cmd.Parameters.AddWithValue("@FullName", fullName);
-            cmd.Parameters.AddWithValue("@PhoneNumber", phoneNumber);
-            cmd.Parameters.AddWithValue("@StartDate", startDate);
-            cmd.Parameters.AddWithValue("@MembershipID", (object)membershipID ?? DBNull.Value);
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(ConnStr))
+                using (SqlCommand cmd = new SqlCommand(strSQL, conn))
+                {
+                    cmd.CommandType = ct;
 
-            if (conn.State == ConnectionState.Closed)
-                conn.Open();
+                    if (param != null && param.Length > 0)
+                        cmd.Parameters.AddRange(param);
 
-            cmd.ExecuteNonQuery();
-            conn.Close();
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                }
+                return true;
+            }
+            catch (Exception ex)
+            {
+                error = ex.Message;
+                return false;
+            }
+            
+        }
+
+        // Thực thi và trả về giá trị đầu tiên (thường dùng cho COUNT, SUM...)
+        public object ExecuteScalar(string cmdText, CommandType cmdType, params SqlParameter[] parameters)
+        {
+            using (SqlCommand cmd = new SqlCommand(cmdText, conn))
+            {
+                cmd.CommandType = cmdType;
+                if (parameters != null && parameters.Length > 0)
+                    cmd.Parameters.AddRange(parameters);
+
+                if (conn.State != ConnectionState.Open)
+                    conn.Open();
+
+                object result = cmd.ExecuteScalar();
+                conn.Close();
+                return result;
+            }
         }
 
     }

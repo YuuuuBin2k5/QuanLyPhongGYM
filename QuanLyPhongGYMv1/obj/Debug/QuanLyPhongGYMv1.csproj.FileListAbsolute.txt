@@ -17,3 +17,387 @@ C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer
 C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
 C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
 C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+C:\Users\Admin\Source\Repos\samsimes111\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\samsimes111\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+C:\Users\Admin\Source\Repos\samsimes111\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+C:\Users\Admin\Source\Repos\samsimes111\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\samsimes111\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHLV.resources
+C:\Users\Admin\Source\Repos\samsimes111\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\samsimes111\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe.config
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.nhapLichTap.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHv.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themTrainer.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themInvoices.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe.config
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.nhapLichTap.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHv.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themInvoices.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themTrainer.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\lapTrinhWinDow\New\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe.config
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.loginForm.resources
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.nhapLichTap.resources
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHv.resources
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themInvoices.resources
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themTrainer.resources
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.pdb
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\HeCSDL\Báo Cáo Cuối kỳ\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe.config
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.pdb
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.loginForm.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.nhapLichTap.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHv.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themInvoices.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themTrainer.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll.config
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Guna.UI2.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MaterialSkin.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.loginForm2.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QRCoder.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.FormQR.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ChatForm.resources
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hi\OneDrive\Desktop\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe.config
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll.config
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.pdb
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ChatForm.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.FormQR.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.loginForm.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.loginForm2.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.nhapLichTap.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHv.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themInvoices.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themTrainer.resources
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\CSDL\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe.config
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QRCoder.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll.config
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.loginForm2.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.nhapLichTap.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHv.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themInvoices.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themTrainer.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Desktop\lapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.pdb
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe.config
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.pdb
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Guna.UI2.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MaterialSkin.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.Fonts.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QRCoder.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll.config
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.pdb
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll.config
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.loginForm2.resources
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.nhapLichTap.resources
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHv.resources
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themInvoices.resources
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themTrainer.resources
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.exe
+D:\LapTrinhWinDow\(23110073_23110146_23110150)\ProjectQuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe.config
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QuanLyPhongGYMv1.pdb
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\QRCoder.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\BusinessAccessLayer.dll.config
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.pdb
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\RBush.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Memory.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Form1.resources
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.LichTap.resources
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.loginForm2.resources
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.nhapLichTap.resources
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.ThemHv.resources
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themInvoices.resources
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.themTrainer.resources
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPh.134D2758.Up2Date
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.exe
+C:\Users\Admin\Source\Repos\YuuuuBin2k5\QuanLyPhongGYM\QuanLyPhongGYMv1\obj\Debug\QuanLyPhongGYMv1.pdb

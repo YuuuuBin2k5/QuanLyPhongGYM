@@ -118,31 +118,178 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="62b4d47e88a1de19bc489616e24e4cc4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\62b4d47e88a1de19bc489616e24e4cc4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="risen-wang-20jX9b35r_M-unsplash (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\risen-wang-20jX9b35r_M-unsplash (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="f226d572737a4b4a071b6808bbd6add6 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f226d572737a4b4a071b6808bbd6add6 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="2_116664" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2_116664.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="53e801fcbab23aaae1158b81bfe64a942" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\53e801fcbab23aaae1158b81bfe64a942.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clock-icon-png-10761" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clock-icon-png-10761.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="secure-icon-png-4995" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\secure-icon-png-4995.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="tải xuống (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tải xuống (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tạo hình nền Thêm Khách Hàng của hệ thống GYM QAT FITNESS1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tạo hình nền Thêm Khách Hàng của hệ thống GYM QAT FITNESS1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f226d572737a4b4a071b6808bbd6add6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f226d572737a4b4a071b6808bbd6add6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="anastase-maragos-7kEpUPB8vNk-unsplash" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\anastase-maragos-7kEpUPB8vNk-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2ea6370268aec1df9efbe27b623a5c5a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2ea6370268aec1df9efbe27b623a5c5a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="69535afa8c3803ed4fb3bd5a38290e45" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\69535afa8c3803ed4fb3bd5a38290e45.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="173cbb3366ba0142d6a4284176d122e4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\173cbb3366ba0142d6a4284176d122e4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="53e801fcbab23aaae1158b81bfe64a94" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\53e801fcbab23aaae1158b81bfe64a94.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b68fb7dfe0636a8da1afad02f10e1e65" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b68fb7dfe0636a8da1afad02f10e1e65.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder-lock-4341303_120563" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconfinder-lock-4341303_120563.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="money-icons-61232" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\money-icons-61232.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="risen-wang-20jX9b35r_M-unsplash (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\risen-wang-20jX9b35r_M-unsplash (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mobile-icon-png-23742" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mobile-icon-png-23742.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="risen-wang-20jX9b35r_M-unsplash" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\risen-wang-20jX9b35r_M-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="2ea6370268aec1df9efbe27b623a5c5a2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2ea6370268aec1df9efbe27b623a5c5a2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f55148ad2ef92de8597008b60bcd29a8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f55148ad2ef92de8597008b60bcd29a8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tạo cho tôi background về Tập Gym với tên là _GYM QAT FITNESS _), hình ảnh là phòng tập Gym ngầu  , thêm con hổ vào" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tạo cho tôi background về Tập Gym với tên là _GYM QAT FITNESS _), hình ảnh là phòng tập Gym ngầu  , thêm con hổ vào.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="69535afa8c3803ed4fb3bd5a38290e451" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\69535afa8c3803ed4fb3bd5a38290e451.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ed5dbc8b9f78c09e4b52ddf9c6d5b2bb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ed5dbc8b9f78c09e4b52ddf9c6d5b2bb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="53e801fcbab23aaae1158b81bfe64a941" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\53e801fcbab23aaae1158b81bfe64a941.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="profile-icon-png-909" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\profile-icon-png-909.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="user_avatar_people_man_person_icon_262044" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user_avatar_people_man_person_icon_262044.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="313dcca7f22b5bce15523235329bc562" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\313dcca7f22b5bce15523235329bc562.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="313dcca7f22b5bce15523235329bc5621" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\313dcca7f22b5bce15523235329bc5621.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tạo cho tôi ảnh background  hệ thống GYM QAT FITNESS 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tạo cho tôi ảnh background  hệ thống GYM QAT FITNESS . 1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="anastase-maragos-7kEpUPB8vNk-unsplash1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\anastase-maragos-7kEpUPB8vNk-unsplash1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b8b9ff98d24aa10f3b37526eb3a111ee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b8b9ff98d24aa10f3b37526eb3a111ee.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="z6443662368954_9be038eedaa83c72a20e52ff0215dad0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z6443662368954_9be038eedaa83c72a20e52ff0215dad0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b23fff5386d16a8bcb425921dbff847f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b23fff5386d16a8bcb425921dbff847f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="333b704f5d130b6a3152f5a07e79c899" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\333b704f5d130b6a3152f5a07e79c899.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="account_username_people_avatar_profile_person_user_icon_258905" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\account_username_people_avatar_profile_person_user_icon_258905.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="head-icon-65221" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\head-icon-65221.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2ea6370268aec1df9efbe27b623a5c5a1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2ea6370268aec1df9efbe27b623a5c5a1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2_116664" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2_116664.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mobile-icon-png-2374" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mobile-icon-png-2374.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tạo hình nền Thêm Khách Hàng của hệ thống GYM QAT FITNESS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tạo hình nền Thêm Khách Hàng của hệ thống GYM QAT FITNESS.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mobile-icon-png-23741" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mobile-icon-png-23741.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="53e801fcbab23aaae1158b81bfe64a944" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\53e801fcbab23aaae1158b81bfe64a944.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tạo cho tôi ảnh background  hệ thống GYM QAT FITNESS . " type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tạo cho tôi ảnh background  hệ thống GYM QAT FITNESS . .jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="00cd8eabf948d596af53e10361a99928" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\00cd8eabf948d596af53e10361a99928.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bf12e234cd5b0783089209226465822e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bf12e234cd5b0783089209226465822e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="money-icons-6123" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\money-icons-6123.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="head-icon-6522" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\head-icon-6522.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sample_User_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sample_User_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="money-icons-61231" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\money-icons-61231.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="53e801fcbab23aaae1158b81bfe64a943" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\53e801fcbab23aaae1158b81bfe64a943.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="545e135e83a4cc4eed986c40cd2bddd9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\545e135e83a4cc4eed986c40cd2bddd9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="money-icons-6113" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\money-icons-6113.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="diary-icon-46561" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\diary-icon-46561.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

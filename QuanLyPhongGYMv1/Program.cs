@@ -1,4 +1,5 @@
 ﻿using DataAccessLayer;
+using QuanLyPhongGYMv1;
 using System;
 using System.Windows.Forms;
 
@@ -14,7 +15,7 @@ namespace QuanLyPhongGYMv1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new NhapThongTin());
+            Application.Run(new loginForm2());
 
         }
     }

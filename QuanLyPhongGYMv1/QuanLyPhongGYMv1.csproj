@@ -33,14 +33,84 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BusinessAccessLayer">
+    <Reference Include="BusinessAccessLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll</HintPath>
     </Reference>
-    <Reference Include="DataAccessLayer">
+    <Reference Include="ClosedXML, Version=0.104.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\ClosedXML.0.104.2\lib\netstandard2.0\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML.Parser, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1d5f7376574c51ec, processorArchitecture=MSIL">
+      <HintPath>packages\ClosedXML.Parser.1.2.0\lib\netstandard2.0\ClosedXML.Parser.dll</HintPath>
+    </Reference>
+    <Reference Include="DataAccessLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>BusinessAccessLayer\bin\Debug\DataAccessLayer.dll</HintPath>
     </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.1.1.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>packages\DocumentFormat.OpenXml.3.1.1\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.1.1.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>packages\DocumentFormat.OpenXml.Framework.3.1.1\lib\net46\DocumentFormat.OpenXml.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.1.0.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>packages\ExcelNumberFormat.1.1.0\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.7\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Krypton.Toolkit, Version=90.25.2.55, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>packages\Krypton.Toolkit.90.25.2.55\lib\net472\Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.HashCode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.HashCode.1.1.1\lib\net461\Microsoft.Bcl.HashCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.6.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>packages\QRCoder.1.6.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="RBush, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\RBush.4.0.0\lib\net47\RBush.dll</HintPath>
+    </Reference>
+    <Reference Include="SixLabors.Fonts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d998eea7b14cab13, processorArchitecture=MSIL">
+      <HintPath>packages\SixLabors.Fonts.1.0.0\lib\netstandard2.0\SixLabors.Fonts.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.7.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -50,63 +120,64 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dangnhapv1.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Dangnhapv1.Designer.cs">
-      <DependentUpon>Dangnhapv1.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Dangnhapv2.cs">
+    <Compile Include="LichTap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LichTap.Designer.cs">
+      <DependentUpon>LichTap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginForm2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Dangnhapv2.Designer.cs">
-      <DependentUpon>Dangnhapv2.cs</DependentUpon>
+    <Compile Include="loginForm2.Designer.cs">
+      <DependentUpon>loginForm2.cs</DependentUpon>
     </Compile>
-    <Compile Include="GiaoDienChinh.cs">
+    <Compile Include="nhapLichTap.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GiaoDienChinh.Designer.cs">
-      <DependentUpon>GiaoDienChinh.cs</DependentUpon>
-    </Compile>
-    <Compile Include="NhapThongTin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="NhapThongTin.Designer.cs">
-      <DependentUpon>NhapThongTin.cs</DependentUpon>
-    </Compile>
-    <Compile Include="QuanLyHv.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="QuanLyHv.Designer.cs">
-      <DependentUpon>QuanLyHv.cs</DependentUpon>
-    </Compile>
-    <Compile Include="TChu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="TChu.Designer.cs">
-      <DependentUpon>TChu.cs</DependentUpon>
+    <Compile Include="nhapLichTap.Designer.cs">
+      <DependentUpon>nhapLichTap.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Dangnhapv1.resx">
-      <DependentUpon>Dangnhapv1.cs</DependentUpon>
+    <Compile Include="ThemHv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemHv.Designer.cs">
+      <DependentUpon>ThemHv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="themInvoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="themInvoices.Designer.cs">
+      <DependentUpon>themInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="themTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="themTrainer.Designer.cs">
+      <DependentUpon>themTrainer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Dangnhapv2.resx">
-      <DependentUpon>Dangnhapv2.cs</DependentUpon>
+    <EmbeddedResource Include="LichTap.resx">
+      <DependentUpon>LichTap.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GiaoDienChinh.resx">
-      <DependentUpon>GiaoDienChinh.cs</DependentUpon>
+    <EmbeddedResource Include="loginForm2.resx">
+      <DependentUpon>loginForm2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NhapThongTin.resx">
-      <DependentUpon>NhapThongTin.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="QuanLyHv.resx">
-      <DependentUpon>QuanLyHv.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="TChu.resx">
-      <DependentUpon>TChu.cs</DependentUpon>
+    <EmbeddedResource Include="nhapLichTap.resx">
+      <DependentUpon>nhapLichTap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -118,6 +189,16 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ThemHv.resx">
+      <DependentUpon>ThemHv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="themInvoices.resx">
+      <DependentUpon>themInvoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="themTrainer.resx">
+      <DependentUpon>themTrainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -157,6 +238,85 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\anastase-maragos-7kEpUPB8vNk-unsplash1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z6443662368954_9be038eedaa83c72a20e52ff0215dad0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll" />
+    <Analyzer Include="BusinessAccessLayer\bin\Debug\DataAccessLayer.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tạo cho tôi background về Tập Gym với tên là _GYM QAT FITNESS _%29, hình ảnh là phòng tập Gym ngầu  , thêm con hổ vào.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\333b704f5d130b6a3152f5a07e79c899.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69535afa8c3803ed4fb3bd5a38290e45.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69535afa8c3803ed4fb3bd5a38290e451.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder-lock-4341303_120563.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_username_people_avatar_profile_person_user_icon_258905.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tạo cho tôi ảnh background  hệ thống GYM QAT FITNESS . .jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tạo cho tôi ảnh background  hệ thống GYM QAT FITNESS . 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tạo hình nền Thêm Khách Hàng của hệ thống GYM QAT FITNESS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tạo hình nền Thêm Khách Hàng của hệ thống GYM QAT FITNESS1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\diary-icon-46561.png" />
+    <None Include="Resources\b8b9ff98d24aa10f3b37526eb3a111ee.jpg" />
+    <None Include="Resources\53e801fcbab23aaae1158b81bfe64a944.jpg" />
+    <None Include="Resources\313dcca7f22b5bce15523235329bc5621.jpg" />
+    <None Include="Resources\53e801fcbab23aaae1158b81bfe64a943.jpg" />
+    <None Include="Resources\money-icons-61232.png" />
+    <None Include="Resources\mobile-icon-png-23742.png" />
+    <None Include="Resources\f226d572737a4b4a071b6808bbd6add6 %281%29.jpg" />
+    <None Include="Resources\53e801fcbab23aaae1158b81bfe64a942.jpg" />
+    <None Include="Resources\53e801fcbab23aaae1158b81bfe64a94.jpg" />
+    <None Include="Resources\money-icons-61231.png" />
+    <None Include="Resources\mobile-icon-png-23741.png" />
+    <None Include="Resources\head-icon-65221.png" />
+    <None Include="Resources\b68fb7dfe0636a8da1afad02f10e1e65.jpg" />
+    <None Include="Resources\money-icons-6123.png" />
+    <None Include="Resources\money-icons-6113.png" />
+    <None Include="Resources\clock-icon-png-10761.png" />
+    <None Include="Resources\mobile-icon-png-2374.png" />
+    <None Include="Resources\head-icon-6522.png" />
+    <None Include="Resources\b23fff5386d16a8bcb425921dbff847f.jpg" />
+    <None Include="Resources\secure-icon-png-4995.png" />
+    <None Include="Resources\profile-icon-png-909.png" />
+    <None Include="Resources\Sample_User_Icon.png" />
+    <None Include="Resources\2ea6370268aec1df9efbe27b623a5c5a2.jpg" />
+    <None Include="Resources\545e135e83a4cc4eed986c40cd2bddd9.jpg" />
+    <None Include="Resources\2ea6370268aec1df9efbe27b623a5c5a1.jpg" />
+    <None Include="Resources\62b4d47e88a1de19bc489616e24e4cc4.jpg" />
+    <None Include="Resources\ed5dbc8b9f78c09e4b52ddf9c6d5b2bb.jpg" />
+    <None Include="Resources\2ea6370268aec1df9efbe27b623a5c5a.jpg" />
+    <None Include="Resources\00cd8eabf948d596af53e10361a99928.jpg" />
+    <None Include="Resources\bf12e234cd5b0783089209226465822e.jpg" />
+    <None Include="Resources\173cbb3366ba0142d6a4284176d122e4.jpg" />
+    <None Include="Resources\f55148ad2ef92de8597008b60bcd29a8.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
